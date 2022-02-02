@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import { Button, Navbar } from "./components"
+import { MainHero } from "./components"
 import './App.css'
 
 const App = () => {
   return(
-    <Navbar  />
+    <MainHero  />
   )
 }
 export default App
