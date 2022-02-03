@@ -1,4 +1,5 @@
 import { Button } from "@/components";
+import Screen1 from "@/assets/images/screen1.png";
 import * as S from "./styles";
 
 const MainHero = () => {
@@ -17,6 +18,7 @@ const MainHero = () => {
           Learn more
         </Button>
       </S.ButtonContainer>
+      <img src={Screen1} alt="Interface 1" width="1500px" />
     </S.MainContainer>
   );
 };

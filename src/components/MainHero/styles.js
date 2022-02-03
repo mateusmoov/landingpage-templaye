@@ -14,6 +14,7 @@ text-align: center;
 font-weight: 500;
 margin-top: 85px;
 margin-bottom: 17px;
+color: white;
 `
 
 export const SubtitleContainer = styled.div`
@@ -21,14 +22,17 @@ font-family: Montserrat;
 width: 616px;
 height: 60px;
 font-size: 20px;
-font-weight: 400;
+font-weight: 300;
 text-align: center;
 margin-bottom: 85px;
+letter-spacing: 0.2px;
+color: white;
 `
 
 export const ButtonContainer = styled.div`
 display: flex;
 button{
 margin-right: 35px;
+margin-bottom: 21px;
 }
 `

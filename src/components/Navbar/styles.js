@@ -4,7 +4,6 @@ export const Navbar = styled.div`
 display: flex;
 justify-content: center;
 height: 119px;
-background-color: #181818;
 `
 
 export const NavbarContainer = styled.div`
