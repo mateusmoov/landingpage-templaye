@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { MainHero } from "./components";
+import { SecondHero } from "./components";
 import LandingPage from "./pages";
 import "./App.css";
 

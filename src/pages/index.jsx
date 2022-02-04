@@ -1,4 +1,4 @@
-import { Navbar, MainHero } from "@/components";
+import { Navbar, MainHero, SecondHero } from "@/components";
 import * as S from "./styles";
 
 const LandingPage = () => {
@@ -7,6 +7,7 @@ const LandingPage = () => {
       <S.MainContainer>
         <Navbar />
         <MainHero />
+        <SecondHero />
       </S.MainContainer>
     </>
   );
